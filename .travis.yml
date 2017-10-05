@@ -15,4 +15,3 @@ script:
   - coverage run CalculadoraTest.py
   - coverage report CalculadoraTest.py
   - coverage html
-  - lettuce
